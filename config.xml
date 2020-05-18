@@ -11,6 +11,7 @@
   <preference name="FadeSplashScreenDuration" value="0"/>
   <preference name="phonegap-version" value="cli-7.1.0" />
   <plugin name="phonegap-plugin-barcodescanner" source="npm" spec="~8.0.0" />
+  <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
   <!-- <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" /> -->
   <!-- <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1" /> -->
   <!-- <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0" /> -->
@@ -30,7 +31,6 @@
   <!-- <plugin name="cordova-plugin-splashscreen" source="npm" spec="~3.2.1" /> -->
   <!-- <plugin name="cordova-plugin-statusbar" source="npm" spec="~2.1.2" /> -->
   <!-- <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0" /> -->
-  <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
   <platform name="android">
     <icon density="ldpi" src="www/res/icon/android/ldpi.png" />
     <icon density="mdpi" src="www/res/icon/android/mdpi.png" />
