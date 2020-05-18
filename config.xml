@@ -3,7 +3,7 @@
   xmlns="http://www.w3.org/ns/widgets" 
   xmlns:gap="http://phonegap.com/ns/1.0">
   <name>Prayer Reg Scanner</name>
-  <description>QR Code Scanner for mosques' events</description>
+  <description>QR code scanner for mosques' events</description>
   <author email="faressoft.com@gmail.com" href="https://faressoft.com">Mohammad Fares</author>
   <content src="index.html" />
   <preference name="DisallowOverscroll" value="true" />
